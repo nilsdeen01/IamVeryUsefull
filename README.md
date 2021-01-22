@@ -17,8 +17,14 @@
 * dog
 * meme
 
+### used dependencies
+* canvas
+* discord.js
+* fs
+* node-fetch
+
 ### Installation
-First of all, clone this repository.
+Clone this repository.
 
 Copy your discord bot token in the config.json file.
 your discord bot token can be found in the [Discord Developer Portal](discord.com/developers/).
